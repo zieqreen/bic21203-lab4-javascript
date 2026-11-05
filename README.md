@@ -59,7 +59,7 @@ No build step or external libraries are required. You can run the code in any de
 
 #### Evidence / Screenshots:
 - **Generated List (1 to 5):**
-  ![Q3 Output](s<img width="1071" height="257" alt="image" src="https://github.com/user-attachments/assets/ea6e3703-2cd0-40ff-8130-714b5bb1fa3a" />)
+  ![Q3 Output](<img width="1071" height="257" alt="image" src="https://github.com/user-attachments/assets/ea6e3703-2cd0-40ff-8130-714b5bb1fa3a" />)
   
 ---
 
