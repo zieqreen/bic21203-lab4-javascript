@@ -51,7 +51,7 @@ No build step or external libraries are required. You can run the code in any de
 - **Test Case (Input: abc):**
   ![Q2 Test Invalid](<img width="1079" height="251" alt="image" src="https://github.com/user-attachments/assets/4b429c02-f346-4831-8862-1245264180b1" />)
 - **Test Case (Input: empty):**
-  ![Q2 Test Empty](<img width="1065" height="182" alt="image" src="https://github.com/user-attachments/assets/17023981-b6bd-4784-8f85-7f7eacec815b" />)
+  ![Q2 Test Empty] <img width="1065" height="182" alt="image" src="https://github.com/user-attachments/assets/17023981-b6bd-4784-8f85-7f7eacec815b" />
 
 ---
 
